@@ -1,11 +1,11 @@
 
-![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)
+![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
         
-# Project 1 test
+# Project Example
 
 ## Description
 
-Desc
+Description here
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Desc
 
 ## Installation
 
-Install
+Intsall intstructions here
 
 ## Usage
 
@@ -27,7 +27,7 @@ Usage
 
 ## License
 
-Eclipse
+BSD
 
 ## Contributing
 
@@ -35,11 +35,11 @@ Contributions
 
 ## Tests
 
-Test
+Test instruction
 
 ## Questions
 
-Link to my: [GitHub](https://github.com/CarlBergquist/)
+Link to my [GitHub](https://github.com/CarlBergquist/)
 
 If you have any further questions please email me at: carlbergquist81@gmail.com
 
